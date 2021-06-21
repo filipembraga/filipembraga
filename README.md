@@ -1,16 +1,13 @@
-### Hi there 👋
+# Filipe Braga 👋
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=filipembraga&repo=filipe-braga&countColorcountColor)
 
-<!--
-**filipembraga/filipembraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-braga-b052949a/) 
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I’m currently working on BHIP
+- 🌱 I’m currently learning C# /.NET, Javascript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=filipembraga&show_icons=true"/>
+<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipembraga&layout=compact&hide=shell"/>
+
+
