@@ -5,7 +5,7 @@
 
 ### About me
 - 🚙 I’m currently working on L&CO (Localiza)
-- 🌱 I’m currently development C# /.NET, and studying Javascript, HTML, CSS
+- 🌱 I’m currently developing C# /.NET, and studying Javascript, HTML, CSS
 
 <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=filipembraga&show_icons=true"/>
 <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipembraga&layout=compact&hide=shell"/>
