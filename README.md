@@ -14,19 +14,9 @@ Experience with enterprise applications, REST APIs, cloud integrations, SQL and 
 * ☁️ Cloud: Azure and AWS
 * 🗄️ Databases: SQL Server, PostgreSQL, MongoDB
 * 📬 Messaging: Azure Service Bus, RabbitMQ (studying and practicing)
-* 📖 Currently studying: Distributed Systems, DDIA, Software Architecture and Reliability Engineering
+* 📖 Currently studying: Distributed Systems, AWS Cloud Practitioner exam prep, Designing Data-Intensive Applications (DDIA), Software Architecture and Reliability Engineering
 * 🌎 Based in Brazil
 
----
-
-Currently studying:
-- Distributed Systems
-- Reliability Engineering
-- Observability
-- Software Architecture
-- AWS Cloud Practitioner Certification
-- Designing Data-Intensive Applications (DDIA)
-  
 ---
 
 ## Technologies
